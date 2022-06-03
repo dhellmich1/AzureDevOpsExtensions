@@ -31,7 +31,7 @@ namespace CloneWorkItem
 
         static void Main(string[] args)
         {
-            string pat = "2nwn33cljubn6hvehpvi5pz3mcdoo5pcdfm2pg3x6amaoe2spk2q"; //https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate
+            string pat = "..."; //https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate
             string orgUrl = "https://dev.azure.com/...";
             string oldProjectName = "...";
             string newProjectName = "";
